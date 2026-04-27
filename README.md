@@ -75,3 +75,6 @@ supply-chain-optimization-ml/
 ├── report/
 ├── README.md
 └── requirements.txt
+
+## Results Visualization
+![Model Performance](Final_Model_Comaprison.png)
