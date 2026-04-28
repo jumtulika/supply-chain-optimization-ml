@@ -53,7 +53,8 @@ This project addresses how to make **optimal decisions under demand uncertainty*
 - Local demand patterns (kNN) outperform global averages  
 - Structural constraints (capacity, network design) limit performance
 
-## Results Visualization
+## Results Visualization 
+
 ![Model Performance](Final_Model_Comparison.png) 
 
 
