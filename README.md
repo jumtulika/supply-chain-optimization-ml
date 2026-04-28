@@ -57,6 +57,7 @@ This project addresses how to make **optimal decisions under demand uncertainty*
 
 ![Model Performance](Final_Model_Comparison.png) 
 
+**Key Result:** The Predictive–Prescriptive (kNN) model outperformed the Expected Value (EV) baseline, reducing average cost from 3686.82 to 282.84—over 90% cost savings.
 
 ## Business Impact
 This framework demonstrates how AI can:
@@ -83,4 +84,8 @@ supply-chain-optimization-ml/
 
 
 
-
+## My Contribution
+- Developed demand prediction models (kNN, Decision Trees)
+- Built optimization model using Pyomo
+- Integrated machine learning with optimization (predictive–prescriptive framework)
+- Analyzed results and derived business insights
