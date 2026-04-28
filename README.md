@@ -54,7 +54,6 @@ This project addresses how to make **optimal decisions under demand uncertainty*
 - Structural constraints (capacity, network design) limit performance
 
 ## Results Visualization
-
 ![Model Performance](Final_Model_Comparison.png) 
 
 
