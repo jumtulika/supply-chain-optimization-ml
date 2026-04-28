@@ -51,7 +51,11 @@ This project addresses how to make **optimal decisions under demand uncertainty*
 - Integrating ML with optimization significantly improves decision quality  
 - Ignoring uncertainty leads to poor performance  
 - Local demand patterns (kNN) outperform global averages  
-- Structural constraints (capacity, network design) limit performance  
+- Structural constraints (capacity, network design) limit performance
+
+## Results Visualization
+![Model Performance](Final_Model_Comparison.png) 
+
 
 ## Business Impact
 This framework demonstrates how AI can:
@@ -76,5 +80,6 @@ supply-chain-optimization-ml/
 ├── README.md
 └── requirements.txt
 
-## Results Visualization
-![Model Performance](Final_Model_Comaprison.png)
+
+
+
